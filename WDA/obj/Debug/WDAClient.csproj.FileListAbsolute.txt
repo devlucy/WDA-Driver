@@ -1,0 +1,17 @@
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/bin/Debug/WDA.dll
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/bin/Debug/WDA.pdb
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/bin/Debug/RestSharp.dll
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/bin/Debug/RestSharp.xml
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/obj/Debug/WDAClient.csprojAssemblyReference.cache
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/obj/Debug/WDAClient.csproj.CoreCompileInputs.cache
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/obj/Debug/WDAClient.csproj.CopyComplete
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/obj/Debug/WDA.dll
+C:/Users/Deepesh.Jadhav/source/repos/WDA/WDA/obj/Debug/WDA.pdb
+/Users/deepesh/Downloads/WDA/WDA/bin/Debug/WDA.dll
+/Users/deepesh/Downloads/WDA/WDA/bin/Debug/WDA.pdb
+/Users/deepesh/Downloads/WDA/WDA/obj/Debug/WDAClient.csproj.CoreCompileInputs.cache
+/Users/deepesh/Downloads/WDA/WDA/obj/Debug/WDAClient.csproj.CopyComplete
+/Users/deepesh/Downloads/WDA/WDA/obj/Debug/WDA.dll
+/Users/deepesh/Downloads/WDA/WDA/obj/Debug/WDA.pdb
